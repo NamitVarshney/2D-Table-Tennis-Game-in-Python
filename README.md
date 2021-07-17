@@ -1,4 +1,4 @@
-![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
+![]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
 # 2D Table Tennis Game in Python.
 
 This project is designed to make a 2D Table Tennis Game in Python. The Game is fundamental in its
