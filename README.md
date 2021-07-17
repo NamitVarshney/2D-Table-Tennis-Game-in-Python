@@ -7,14 +7,14 @@ coding language.
 
 ## Software Requirement.
 - Operating System - Win, Mac, Linux
-- Python latest version installed, i.e. 3.9.0
-- IDE or Code Editor, like Vs Code etc.
+- Python latest version installed, i.e. v3.9.0
+- IDE or Code Editor, eg VS Code etc.
 
 ## Methodologies & Python Libraries Used 
 
 ### I have made the game with the help of Turtle & WinSound Module.
 1. **Making the Graphical Interface for the Game**
-Turtle is a pre-installed Python library that enables users to create pictures and shapes by
+- Turtle is a pre-installed Python library that enables users to create pictures and shapes by
 providing them with a virtual canvas. The onscreen pen that you use for drawing is called the turtle
 and this is what gives the library its name. It contains large number of classes which can be used
 for different graphical representation and 2D- Game Building. The good thing about turtle is that
