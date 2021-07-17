@@ -1,7 +1,6 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-v3-1f425f.svg)](https://www.python.org/)
-[![python turtle module](https://img.shields.io/badge/Python%20Turtle-Module-e60000.svg)](https://www.python.org/)
-[![made-with-python](https://img.shields.io/badge/Python%10WinSound-Module-e60000.svg)](https://www.python.org/)
-
+https://img.shields.io/badge/Made%20with-Python%20v3.0-red
+https://img.shields.io/badge/Python-Turtle%20Module-orange
+https://img.shields.io/badge/Python-WinSound%20Module-orange
 # 2D Table Tennis Game in Python.
 
 This project is designed to make a 2D Table Tennis Game in Python. The Game is fundamental in its
