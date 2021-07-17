@@ -6,9 +6,9 @@ This Game highlights how fantastic it is to make something so real, and exhausti
 coding language.
 
 ## Software Requirement.
-Operating System - Win, Mac, Linux
-Python latest version installed, i.e. 3.9.0
-IDE or Code Editor, like Vs Code etc.
+- Operating System - Win, Mac, Linux
+- Python latest version installed, i.e. 3.9.0
+- IDE or Code Editor, like Vs Code etc.
 
 ## Methodologies & Python Libraries Used 
 
