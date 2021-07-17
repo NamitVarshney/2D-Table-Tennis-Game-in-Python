@@ -26,14 +26,14 @@ installed with Tk support.
 For More in-depth knowledge about Turtle: https://docs.python.org/3/library/turtle.html?highlight=trace#module-turtle
 
 ***2. Adding Sound to the game***
-> I used WinSound Module to add sound to my game, after a player hits the ball with paddle the
+- I used WinSound Module to add sound to my game, after a player hits the ball with paddle the
 sound should come, similarly when a player misses the ball different sound should play to improve
 gaming experience. Similar to Turtle good thing about Winsound is that it’s a built-in library, so you
 don’t need to install any new packages. All you need to do is import the library into your Python
 environment.
 The winsound module provides access to the basic sound-playing machinery provided by Windows
 platforms. It includes functions and several constants,
-* winsound.Beep(frequency, duration)
+-- winsound.Beep(frequency, duration)
 * winsound.PlaySound(sound, flags)
 * winsound.MessageBeep(type=MB_OK)
 * winsound.SND_FILENAME
