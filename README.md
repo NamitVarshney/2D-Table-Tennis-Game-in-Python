@@ -33,11 +33,11 @@ don’t need to install any new packages. All you need to do is import the libra
 environment.
 The winsound module provides access to the basic sound-playing machinery provided by Windows
 platforms. It includes functions and several constants,
-     - winsound.Beep(frequency, duration)
-* winsound.PlaySound(sound, flags)
-* winsound.MessageBeep(type=MB_OK)
-* winsound.SND_FILENAME
-* winsound.SND_ALIAS, and many more...
+     * winsound.Beep(frequency, duration)
+     * winsound.PlaySound(sound, flags)
+     * winsound.MessageBeep(type=MB_OK)
+     * winsound.SND_FILENAME
+     * winsound.SND_ALIAS, and many more...
 For More in-depth knowledge about WinSound: https://docs.python.org/3/library/winsound.html
 
 
