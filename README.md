@@ -1,5 +1,5 @@
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python v3.0-1f425f.svg)](https://www.python.org/)
-[![python turtle module](https://img.shields.io/badge/Python%20Turtle-Module-1f425f.svg)](https://www.python.org/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-v3.0-1f425f.svg)](https://www.python.org/)
+[![python turtle module](https://img.shields.io/badge/Python-e60000%20Turtle-Module-1f425f.svg)](https://www.python.org/)
 [![made-with-python](https://img.shields.io/badge/Python%20WinSound-Module-e60000.svg)](https://www.python.org/)
 
 # 2D Table Tennis Game in Python.
