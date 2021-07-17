@@ -38,6 +38,7 @@ platforms. It includes functions and several constants,
      * winsound.MessageBeep(type=MB_OK)
      * winsound.SND_FILENAME
      * winsound.SND_ALIAS, and many more...
+     
 For More in-depth knowledge about WinSound: https://docs.python.org/3/library/winsound.html
 
 
